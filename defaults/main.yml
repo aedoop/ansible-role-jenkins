@@ -1,0 +1,6 @@
+---
+# defaults file for jenkins
+
+id: jenkins
+version: 2.60.3
+mode: pull

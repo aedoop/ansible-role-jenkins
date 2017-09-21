@@ -1,0 +1,12 @@
+---
+# vars file for jenkins
+
+dirs_info:
+  Windows:
+    tmp: C:\tmp
+
+packages_info:
+  2.60.3:
+    Windows:
+      file: jenkins.install.2.60.3.nupkg
+      pull: ftp://10.0.250.100/pub/jenkins/window/jenkins.install.2.60.3.nupkg
